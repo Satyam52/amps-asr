@@ -112,7 +112,7 @@ After fine-tuning, the model will be saved in the directory `$EXPERIMENT_DIR`.
 We need to create a new `.yaml` card (let's say `custom_model.yaml`) for the newly fine-tuned model in:  
 
 
-### Steps to create `custom_model.yaml`:
+### Steps to create custom_model.yaml:
 
 1. Copy the content of `BASE_MODEL.yaml` to `custom_model.yaml`.
 2. Update the following fields:
