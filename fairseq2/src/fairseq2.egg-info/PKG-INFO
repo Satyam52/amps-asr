@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: fairseq2
+Version: 0.2.0
+Summary: FAIR Sequence Modeling Toolkit
+Home-page: https://github.com/facebookresearch/fairseq2
+Author: Fundamental AI Research (FAIR) at Meta
+License: MIT
+Keywords: machine learning
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.8
+Description-Content-Type: text/plain
+License-File: LICENSE
+
+https://github.com/facebookresearch/fairseq2
+

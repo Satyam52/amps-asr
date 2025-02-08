@@ -1,0 +1,50 @@
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# All rights reserved.
+#
+# This source code is licensed under the BSD-style license found in the
+# MIT_LICENSE file in the root directory of this source tree.
+
+name: paraphrase_enc_dec_adap_random_50hrs_trans_mal_s2t_1_t2t_1_threshold_3.2
+base: unity_nllb-200
+model_arch: medium
+checkpoint: /slt/paraphraseASR/experiments_random_50hrs_translated/malayalam_50M/paraphrase_enc_dec_adap_random_50hrs_trans_mal_s2t_1_t2t_1_threshold_3.2/paraphrase_enc_dec_adap_random_50hrs_trans_mal_s2t_1_t2t_1_threshold_3.2.pt
+num_units: 10000
+unit_langs:
+  - arb
+  - ben
+  - cat
+  - ces
+  - cmn
+  - cym
+  - dan
+  - deu
+  - eng
+  - est
+  - fin
+  - fra
+  - hin
+  - ind
+  - ita
+  - jpn
+  - kan
+  - kor
+  - mlt
+  - nld
+  - pes
+  - pol
+  - por
+  - ron
+  - rus
+  - slk
+  - spa
+  - swe
+  - swh
+  - tam
+  - tel
+  - tgl
+  - tha
+  - tur
+  - ukr
+  - urd
+  - uzn
+  - vie

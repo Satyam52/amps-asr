@@ -1,0 +1,10 @@
+datasets
+fairseq2==0.2.*
+fire
+librosa
+openai-whisper
+scipy
+simuleval~=1.1.3
+soundfile
+torchaudio
+tqdm
